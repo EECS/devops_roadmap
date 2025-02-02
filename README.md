@@ -1,7 +1,10 @@
 # Overview
 
-In this project, you will see a simple server script, `server-stats.sh`,
-that prints simple server statistics for a machine.
+This project contains multiple scripts seen in the DevOps Roadmap.
+
+## Server Stats
+
+`server-stats.sh` prints simple server statistics for a machine.
 
 The script is written in bash and can be run with the following command:
 
