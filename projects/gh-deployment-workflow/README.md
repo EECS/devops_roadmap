@@ -1,7 +1,9 @@
 # Overview
 
 This `README.md` contains information related to the Github Pages Deployment project in Devops roadmap,
-seen here <https://roadmap.sh/projects/github-actions-deployment-workflow>.
+seen here:
+
+Project URL - <https://roadmap.sh/projects/github-actions-deployment-workflow>.
 
 ## Project Description
 
