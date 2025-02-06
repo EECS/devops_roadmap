@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 `server-stats.sh` prints simple server statistics for a machine.
 
