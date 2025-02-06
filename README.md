@@ -13,3 +13,7 @@ See the Log Archive readme [here](projects/log-archive/README.md).
 ## Project 3: Log Analysis
 
 See the Log Analysis readme [here](projects/log-analysis/README.md).
+
+## Project 4: Github Pages Deployment
+
+See the Github Pages Deployment readme [here](projects/gh-deployment-workflow/README.md).
