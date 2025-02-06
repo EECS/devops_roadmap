@@ -1,9 +1,9 @@
-name: Deploy to GitHub Pages
+name: Deploy GH Deployment Workflow Project to GitHub Pages
 
 on:
   push:
     paths:
-      - projects/gh-deployment-workflow/** # Only run on change specific to this project
+      - docs/** # Only run on changes specific to this folder
     branches:
       - main
 
