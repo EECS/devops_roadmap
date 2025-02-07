@@ -25,3 +25,9 @@ The project URL can be seen here: <https://roadmap.sh/projects/nginx-log-analyse
 See the Github Pages Deployment readme [here](projects/gh-deployment-workflow/README.md).
 
 The project URL can be seen here: <https://roadmap.sh/projects/github-actions-deployment-workflow>
+
+## Project 5: SSH Remote Server Setup
+
+See the SSH Remote Server Setup readme [here](projects/ssh-remote-server-setup/README.md).
+
+The project URL can be seen here: <https://roadmap.sh/projects/ssh-remote-server-setup>
