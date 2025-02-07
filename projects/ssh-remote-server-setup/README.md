@@ -2,7 +2,7 @@
 
 This project is about setting up a remote server using SSH. The project is part of the DevOps track on [roadmap.sh](https://roadmap.sh).
 
-## Steps Taken
+## Steps Taken for First User
 
 This project created a server on DigitalOcean and set up SSH access to the server. The following steps were taken:
 
@@ -33,6 +33,15 @@ This project created a server on DigitalOcean and set up SSH access to the serve
    - I then set `PermitRootLogin no`
    - I then restarted the SSH service with the command `sudo systemctl restart ssh`
 7. I then confirmed that I could no longer log in as root by running the command `ssh -i ~/.ssh/id_rsa root@<server-ip>`.
+
+## Steps Taken for Second User
+
+The project also required us to create a second user on the server and set up SSH access for the new user. The following steps were taken:
+
+1. Connected to the server using SSH with the following command
+   - `ssh -i ~/.ssh/id_rsa <username>@<server-ip>`
+2. Followed the same steps as above to create a new user and set up SSH access for the new user.
+3. I then confirmed that I could log in as the new user by running the command `ssh -i ~/.ssh/id_rsa <username>@<server-ip>`.
 
 ## Bonus Points
 
