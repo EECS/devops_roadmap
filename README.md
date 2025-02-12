@@ -31,3 +31,9 @@ The project URL can be seen here: <https://roadmap.sh/projects/github-actions-de
 See the SSH Remote Server Setup readme [here](projects/ssh-remote-server-setup/README.md).
 
 The project URL can be seen here: <https://roadmap.sh/projects/ssh-remote-server-setup>
+
+## Project 6: Static Site Server
+
+See the Static Site Server readme [here](projects/static-site-server/README.md).
+
+The project URL can be seen here: <https://roadmap.sh/projects/static-site-server>
