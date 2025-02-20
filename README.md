@@ -37,3 +37,9 @@ The project URL can be seen here: <https://roadmap.sh/projects/ssh-remote-server
 See the Static Site Server readme [here](projects/static-site-server/README.md).
 
 The project URL can be seen here: <https://roadmap.sh/projects/static-site-server>
+
+## Project 8 Simple Monitoring
+
+See the Simple Monitoring readme [here](projects/simple-monitoring/README.md).
+
+The project URL can be seen here: <https://roadmap.sh/projects/simple-monitoring-dashboard>
