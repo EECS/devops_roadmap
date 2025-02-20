@@ -40,6 +40,6 @@ The project URL can be seen here: <https://roadmap.sh/projects/static-site-serve
 
 ## Project 8 Simple Monitoring
 
-See the Simple Monitoring readme [here](projects/simple-monitoring/README.md).
+See the Simple Monitoring readme [here](projects/simple-monitoring-dashboard/README.md).
 
 The project URL can be seen here: <https://roadmap.sh/projects/simple-monitoring-dashboard>
