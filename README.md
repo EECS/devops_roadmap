@@ -38,8 +38,14 @@ See the Static Site Server readme [here](projects/static-site-server/README.md).
 
 The project URL can be seen here: <https://roadmap.sh/projects/static-site-server>
 
-## Project 8 Simple Monitoring
+## Project 8: Simple Monitoring
 
 See the Simple Monitoring readme [here](projects/simple-monitoring-dashboard/README.md).
 
 The project URL can be seen here: <https://roadmap.sh/projects/simple-monitoring-dashboard>
+
+## Project 9: Dummy Systemd Service
+
+See the Dummy Systemd Service readme [here](projects/dummy-systemd-service/README.md).
+
+The project URL can be seen here: <https://roadmap.sh/projects/dummy-systemd-service>
