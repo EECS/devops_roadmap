@@ -1,0 +1,11 @@
+FROM alpine:latest
+
+# Install bash
+RUN apk add --no-cache bash
+
+# Copy the script to the container
+COPY ./stretch.sh /
+
+RUN chmod +x /stretch.sh
+
+ENTRYPOINT ["/stretch.sh"]

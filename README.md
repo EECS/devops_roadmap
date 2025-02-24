@@ -49,3 +49,9 @@ The project URL can be seen here: <https://roadmap.sh/projects/simple-monitoring
 See the Dummy Systemd Service readme [here](projects/dummy-systemd-service/README.md).
 
 The project URL can be seen here: <https://roadmap.sh/projects/dummy-systemd-service>
+
+## Project 10: Basic Dockerfile
+
+See the Basic Dockerfile readme [here](projects/basic-dockerfile/README.md).
+
+The project URL can be seen here: <https://roadmap.sh/projects/basic-dockerfile>
